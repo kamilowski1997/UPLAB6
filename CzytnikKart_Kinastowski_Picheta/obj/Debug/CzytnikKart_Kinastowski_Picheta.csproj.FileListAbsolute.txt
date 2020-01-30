@@ -1,0 +1,14 @@
+C:\Users\lab\source\repos\CzytnikKart_Kinastowski_Picheta\CzytnikKart_Kinastowski_Picheta\bin\Debug\CzytnikKart_Kinastowski_Picheta.exe.config
+C:\Users\lab\source\repos\CzytnikKart_Kinastowski_Picheta\CzytnikKart_Kinastowski_Picheta\bin\Debug\CzytnikKart_Kinastowski_Picheta.exe
+C:\Users\lab\source\repos\CzytnikKart_Kinastowski_Picheta\CzytnikKart_Kinastowski_Picheta\bin\Debug\CzytnikKart_Kinastowski_Picheta.pdb
+C:\Users\lab\source\repos\CzytnikKart_Kinastowski_Picheta\CzytnikKart_Kinastowski_Picheta\bin\Debug\PCSC.dll
+C:\Users\lab\source\repos\CzytnikKart_Kinastowski_Picheta\CzytnikKart_Kinastowski_Picheta\bin\Debug\PCSC.pdb
+C:\Users\lab\source\repos\CzytnikKart_Kinastowski_Picheta\CzytnikKart_Kinastowski_Picheta\bin\Debug\PCSC.xml
+C:\Users\lab\source\repos\CzytnikKart_Kinastowski_Picheta\CzytnikKart_Kinastowski_Picheta\obj\Debug\CzytnikKart_Kinastowski_Picheta.csprojAssemblyReference.cache
+C:\Users\lab\source\repos\CzytnikKart_Kinastowski_Picheta\CzytnikKart_Kinastowski_Picheta\obj\Debug\CzytnikKart_Kinastowski_Picheta.Form1.resources
+C:\Users\lab\source\repos\CzytnikKart_Kinastowski_Picheta\CzytnikKart_Kinastowski_Picheta\obj\Debug\CzytnikKart_Kinastowski_Picheta.Properties.Resources.resources
+C:\Users\lab\source\repos\CzytnikKart_Kinastowski_Picheta\CzytnikKart_Kinastowski_Picheta\obj\Debug\CzytnikKart_Kinastowski_Picheta.csproj.GenerateResource.cache
+C:\Users\lab\source\repos\CzytnikKart_Kinastowski_Picheta\CzytnikKart_Kinastowski_Picheta\obj\Debug\CzytnikKart_Kinastowski_Picheta.csproj.CoreCompileInputs.cache
+C:\Users\lab\source\repos\CzytnikKart_Kinastowski_Picheta\CzytnikKart_Kinastowski_Picheta\obj\Debug\CzytnikKart_Kinastowski_Picheta.csproj.CopyComplete
+C:\Users\lab\source\repos\CzytnikKart_Kinastowski_Picheta\CzytnikKart_Kinastowski_Picheta\obj\Debug\CzytnikKart_Kinastowski_Picheta.exe
+C:\Users\lab\source\repos\CzytnikKart_Kinastowski_Picheta\CzytnikKart_Kinastowski_Picheta\obj\Debug\CzytnikKart_Kinastowski_Picheta.pdb
